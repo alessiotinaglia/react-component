@@ -3,7 +3,7 @@ function main() {
     return (
         <main>
             <div class="card">
-                <img src="" alt="" />
+                <img src="../public/A1A543vWlqL.jpg" alt="foto montagna"/>
                 <div class="card-body">
                     <h5 class="card-title">Titolo del post</h5>
                     <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus necessitatibus officia nam tempore asperiores provident repellat exercitationem porro, eligendi animi perferendis consequuntur libero ab magni iusto, dolor rerum unde suscipit?.</p>
